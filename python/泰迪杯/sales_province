@@ -1,0 +1,1057 @@
+,国家,销售额,利润
+0,Cote d'Ivoire,656.96,6.57
+1,Madagascar,875.94,-70.08
+2,Rwanda,258.35,18.08
+3,Zimbabwe,875.62,-35.02
+4,Ethiopia,509.93,10.2
+5,Chad,443.13,4.43
+6,Malawi,651.78,19.55
+7,Mauritius,896.64,-62.76
+8,Sao Tome and Principe,226.92,13.62
+9,Burundi,928.07,74.25
+10,Cameroon,77.41,3.87
+11,Cote d'Ivoire,263.65,10.55
+12,Nigeria,950.83,-47.54
+13,Senegal,252.01,22.68
+14,South Africa,173.98,-10.44
+15,Benin,384.51,34.61
+16,Sierra Leone,301.55,-6.03
+17,Equatorial Guinea,876.78,-43.84
+18,Western Sahara,235.84,-2.36
+19,Nigeria,580.55,-40.64
+20,Sudan,218.64,17.49
+21,Algeria,906.3,9.06
+22,Eritrea,791.98,7.92
+23,Libya,643.73,45.06
+24,Niger,3.3,-0.03
+25,Togo,326.97,22.89
+26,Guinea-Bissau,28.16,0.28
+27,United Republic of Tanzania,232.27,-2.32
+28,Ghana,83.11,8.31
+29,Botswana,660.12,0.0
+30,Lesotho,153.27,4.6
+31,Democratic Republic of the Congo,40.85,-2.04
+32,Benin,897.78,53.87
+33,Burkina Faso,462.98,37.04
+34,Somalia,977.28,-9.77
+35,Cameroon,918.82,73.51
+36,Central African Republic,451.45,36.12
+37,South Africa,155.86,-4.68
+38,Gabon,984.2,29.53
+39,Tunisia,60.05,-0.6
+40,Congo,306.1,0.0
+41,Mozambique,122.4,9.79
+42,Namibia,598.62,29.93
+43,Seychelles,90.78,-4.54
+44,Swaziland,864.78,-69.18
+45,Angola,93.2,7.46
+46,Malawi,841.0,8.41
+47,South Africa,290.43,-20.33
+48,South Africa,818.99,8.19
+49,Mali,847.01,42.35
+50,Uganda,649.29,-51.94
+51,Ghana,209.95,8.4
+52,Guinea,188.89,13.22
+53,Nigeria,723.84,7.24
+54,Nigeria,315.6,6.31
+55,Sudan,120.67,2.41
+56,Democratic Republic of the Congo,863.54,0.0
+57,South Sudan,359.89,-21.59
+58,Zambia,222.26,20.0
+59,Djibouti,885.22,-26.56
+60,Kenya,992.58,49.63
+61,Democratic Republic of the Congo,366.62,25.66
+62,Liberia,936.97,-65.59
+63,Morocco,832.54,58.28
+64,Egypt,761.05,60.88
+65,Mauritania,211.03,12.66
+66,Burkina Faso,638.38,-6.38
+67,Mozambique,357.17,32.15
+68,Ghana,392.84,-15.71
+69,Ghana,67.29,6.06
+70,Guinea,825.78,33.03
+71,Algeria,385.71,-30.86
+72,Cote d'Ivoire,436.3,-17.45
+73,United Republic of Tanzania,401.85,4.02
+74,Democratic Republic of the Congo,246.28,12.31
+75,Equatorial Guinea,996.56,9.97
+76,Sudan,99.2,7.94
+77,Senegal,193.94,-11.64
+78,Nigeria,316.67,-12.67
+79,Uganda,983.55,19.67
+80,Eritrea,196.57,13.76
+81,Libya,258.25,-15.5
+82,Burundi,428.05,-4.28
+83,Gabon,952.76,38.11
+84,Zimbabwe,391.72,-3.92
+85,Central African Republic,363.3,7.27
+86,South Sudan,165.99,-11.62
+87,Sao Tome and Principe,921.82,55.31
+88,Cote d'Ivoire,597.21,0.0
+89,South Africa,397.52,-7.95
+90,Mauritius,488.55,0.0
+91,Togo,155.31,4.66
+92,Rwanda,322.84,-9.69
+93,Madagascar,157.77,-4.73
+94,Nigeria,966.47,86.98
+95,Egypt,444.69,13.34
+96,Liberia,301.63,-9.05
+97,Cameroon,736.79,22.1
+98,Namibia,69.7,6.97
+99,Western Sahara,761.86,45.71
+100,Benin,989.86,69.29
+101,Malawi,809.98,40.5
+102,Sudan,580.98,23.24
+103,Guinea-Bissau,559.51,22.38
+104,South Africa,1.39,-0.06
+105,Democratic Republic of the Congo,447.06,-26.82
+106,Niger,59.99,-4.8
+107,Tunisia,772.52,-46.35
+108,Nigeria,626.23,-31.31
+109,Benin,435.48,8.71
+110,Ethiopia,600.36,6.0
+111,Congo,949.63,-47.48
+112,Guinea,10.69,-0.75
+113,Tunisia,875.36,43.77
+114,Benin,986.77,-29.6
+115,Cameroon,678.52,-27.14
+116,Guinea-Bissau,782.81,54.8
+117,Gabon,914.72,0.0
+118,Botswana,953.86,95.39
+119,Lesotho,484.25,33.9
+120,Sudan,921.68,36.87
+121,Zambia,751.73,-15.03
+122,Cameroon,865.75,-51.95
+123,Somalia,673.55,-13.47
+124,Eritrea,857.28,-34.29
+125,Egypt,510.23,20.41
+126,Angola,688.25,68.83
+127,Mauritania,42.63,2.98
+128,Morocco,703.93,-35.2
+129,Swaziland,760.7,30.43
+130,Democratic Republic of the Congo,335.87,30.23
+131,Togo,572.06,17.16
+132,Burundi,542.68,0.0
+133,Congo,725.91,58.07
+134,Mali,242.34,-16.96
+135,Cameroon,52.91,2.12
+136,Djibouti,724.69,-7.25
+137,Mozambique,986.39,-19.73
+138,South Africa,793.52,39.68
+139,Sierra Leone,695.88,-13.92
+140,South Africa,686.67,48.07
+141,Libya,587.33,-5.87
+142,Chad,35.55,3.2
+143,Nigeria,652.21,58.7
+144,Seychelles,40.12,-1.6
+145,Rwanda,736.43,14.73
+146,Kenya,70.94,2.84
+147,Malawi,130.06,10.4
+148,Mauritania,796.23,55.74
+149,South Africa,981.17,-29.44
+150,Malawi,45.51,3.19
+151,Zimbabwe,451.47,-31.6
+152,South Africa,478.39,19.14
+153,Kenya,904.98,-72.4
+154,Liberia,480.03,4.8
+155,Central African Republic,76.46,3.82
+156,Cote d'Ivoire,977.84,-58.67
+157,Botswana,874.66,78.72
+158,Uganda,168.2,3.36
+159,Ethiopia,18.17,0.73
+160,Sao Tome and Principe,591.09,-5.91
+161,Malawi,826.12,33.04
+162,Madagascar,787.38,-15.75
+163,South Africa,883.26,44.16
+164,Ghana,977.69,-9.78
+165,Angola,453.66,45.37
+166,Nigeria,303.31,3.03
+167,Sudan,593.17,-41.52
+168,Sierra Leone,238.65,2.39
+169,Nigeria,458.22,-32.08
+170,Chad,85.19,-2.56
+171,Western Sahara,737.15,51.6
+172,Malawi,799.11,-47.95
+173,Egypt,928.29,46.41
+174,Namibia,953.13,-38.13
+175,Djibouti,782.06,-15.64
+176,Mali,97.9,-5.87
+177,South Sudan,443.6,-26.62
+178,Nigeria,936.65,-56.2
+179,Somalia,320.9,-19.25
+180,Senegal,276.04,24.84
+181,South Africa,539.01,-43.12
+182,Cote d'Ivoire,660.79,-26.43
+183,Swaziland,699.75,-20.99
+184,Sao Tome and Principe,105.81,3.17
+185,Tunisia,701.35,56.11
+186,Swaziland,480.82,9.62
+187,Morocco,241.48,-4.83
+188,Democratic Republic of the Congo,112.3,4.49
+189,Angola,216.35,2.16
+190,Liberia,78.12,-5.47
+191,Senegal,218.25,-10.91
+192,South Africa,544.34,54.43
+193,Zambia,353.92,-24.77
+194,Namibia,659.86,-6.6
+195,Sudan,126.44,5.06
+196,Equatorial Guinea,736.28,29.45
+197,Democratic Republic of the Congo,358.47,10.75
+198,Democratic Republic of the Congo,895.59,80.6
+199,Democratic Republic of the Congo,930.49,-27.91
+200,Nigeria,368.0,-22.08
+201,Ghana,142.12,0.0
+202,Cameroon,609.53,42.67
+203,Benin,739.48,-7.39
+204,Lesotho,517.81,41.42
+205,Algeria,723.41,36.17
+206,Cote d'Ivoire,229.43,-18.35
+207,Mauritius,512.94,25.65
+208,Niger,665.2,-46.56
+209,Gabon,950.34,-66.52
+210,Mauritania,573.76,-34.43
+211,Cote d'Ivoire,801.0,-40.05
+212,Somalia,668.57,60.17
+213,Seychelles,576.87,-23.07
+214,Seychelles,916.42,0.0
+215,Rwanda,264.47,-5.29
+216,Sierra Leone,911.76,0.0
+217,Central African Republic,973.93,19.48
+218,Equatorial Guinea,420.68,4.21
+219,Niger,327.81,16.39
+220,Burkina Faso,745.22,-29.81
+221,United Republic of Tanzania,196.25,-15.7
+222,Mali,401.71,-32.14
+223,Nigeria,717.72,-35.89
+224,Nigeria,365.58,-29.25
+225,South Africa,621.63,62.16
+226,Lesotho,607.46,24.3
+227,Djibouti,613.1,36.79
+228,Zambia,627.11,37.63
+229,South Sudan,372.63,-22.36
+230,Eritrea,155.37,-1.55
+231,Mauritius,223.29,11.16
+232,Cameroon,466.81,-23.34
+233,Burkina Faso,488.98,-29.34
+234,Burundi,81.63,0.82
+235,Ethiopia,386.59,-23.2
+236,Congo,483.35,-33.83
+237,Botswana,114.52,-3.44
+238,Chad,704.01,28.16
+239,United Republic of Tanzania,434.34,34.75
+240,Nigeria,473.33,28.4
+241,Guinea-Bissau,812.02,40.6
+242,Togo,885.66,-70.85
+243,Madagascar,947.92,37.92
+244,Kenya,341.57,-10.25
+245,Sudan,541.59,43.33
+246,Guinea,291.86,-17.51
+247,Ghana,831.92,49.92
+248,Ghana,900.53,-72.04
+249,Algeria,852.33,-34.09
+250,Benin,243.26,-9.73
+251,South Africa,957.83,-76.63
+252,Morocco,855.42,51.33
+253,Malawi,159.38,-12.75
+254,Libya,823.82,16.48
+255,Democratic Republic of the Congo,470.83,-14.12
+256,Uganda,284.57,2.85
+257,Western Sahara,601.87,60.19
+258,Democratic Republic of the Congo,788.25,39.41
+259,South Africa,819.25,24.58
+260,Zimbabwe,231.41,-4.63
+261,Nigeria,572.13,17.16
+262,Benin,431.0,-21.55
+263,Mozambique,183.56,-7.34
+264,Uganda,202.35,14.16
+265,Burkina Faso,953.96,28.62
+266,Democratic Republic of the Congo,112.21,-8.98
+267,Madagascar,893.28,-71.46
+268,Mali,305.74,-9.17
+269,Nigeria,44.75,4.03
+270,Liberia,634.05,-50.72
+271,Algeria,694.6,55.57
+272,Nigeria,515.69,-20.63
+273,Morocco,301.61,30.16
+274,Tunisia,403.54,36.32
+275,Malawi,794.58,23.84
+276,Sierra Leone,436.28,17.45
+277,South Africa,853.09,17.06
+278,South Africa,742.07,66.79
+279,Benin,628.33,56.55
+280,Djibouti,52.48,1.05
+281,Lesotho,711.29,56.9
+282,Malawi,563.74,22.55
+283,Eritrea,980.35,88.23
+284,Gabon,651.85,13.04
+285,Angola,46.15,-3.23
+286,Burundi,349.79,-27.98
+287,Cote d'Ivoire,87.93,5.28
+288,Sao Tome and Principe,386.89,-19.34
+289,Cote d'Ivoire,894.21,-71.54
+290,Mauritius,352.89,31.76
+291,Sudan,694.54,6.95
+292,Congo,744.63,-14.89
+293,Libya,740.66,74.07
+294,Mozambique,717.16,-7.17
+295,Senegal,890.82,-71.27
+296,Swaziland,971.11,67.98
+297,Chad,668.57,0.0
+298,Ethiopia,932.04,74.56
+299,Niger,966.64,-19.33
+300,Rwanda,684.43,-41.07
+301,Zambia,371.36,-29.71
+302,Central African Republic,669.9,33.5
+303,Ghana,826.48,-8.26
+304,Benin,343.36,27.47
+305,Cameroon,523.18,-10.46
+306,Equatorial Guinea,32.98,-2.64
+307,Kenya,34.43,-1.38
+308,Sudan,363.1,29.05
+309,Guinea,270.56,-10.82
+310,Namibia,84.09,-2.52
+311,Togo,114.71,-2.29
+312,Democratic Republic of the Congo,115.0,1.15
+313,Ghana,102.1,-5.11
+314,United Republic of Tanzania,575.53,0.0
+315,Egypt,120.75,1.21
+316,South Africa,959.33,-47.97
+317,Zimbabwe,337.98,13.52
+318,Botswana,498.16,34.87
+319,Nigeria,213.25,-14.93
+320,Seychelles,165.84,-1.66
+321,South Africa,402.33,40.23
+322,South Sudan,771.7,30.87
+323,Somalia,328.62,32.86
+324,Cameroon,18.45,-0.37
+325,Democratic Republic of the Congo,750.42,0.0
+326,Guinea-Bissau,311.31,0.0
+327,Mauritania,702.51,21.08
+328,Nigeria,7.23,0.72
+329,Western Sahara,623.24,-43.63
+330,Burkina Faso,960.39,-76.83
+331,Congo,277.93,8.34
+332,Benin,435.4,39.19
+333,Nigeria,732.29,65.91
+334,United Republic of Tanzania,1.14,0.06
+335,Cameroon,213.92,-4.28
+336,Malawi,531.53,53.15
+337,Tunisia,423.89,38.15
+338,Kenya,391.21,-23.47
+339,Cameroon,168.89,-3.38
+340,Eritrea,150.97,-6.04
+341,Sudan,838.72,50.32
+342,Ghana,539.14,-26.96
+343,Sierra Leone,651.64,58.65
+344,South Africa,767.05,46.02
+345,South Africa,294.77,11.79
+346,Algeria,49.05,-2.94
+347,Botswana,885.21,35.41
+348,Mauritania,320.12,-3.2
+349,Guinea,412.85,-28.9
+350,Djibouti,369.62,-7.39
+351,Seychelles,654.76,6.55
+352,Chad,208.32,4.17
+353,Togo,283.56,22.68
+354,Swaziland,457.57,41.18
+355,Nigeria,90.67,1.81
+356,Rwanda,648.37,0.0
+357,Senegal,494.93,-34.65
+358,South Africa,446.16,44.62
+359,Guinea-Bissau,579.46,5.79
+360,Lesotho,635.88,-50.87
+361,Zambia,339.73,10.19
+362,Somalia,29.2,2.63
+363,Uganda,239.4,-9.58
+364,Gabon,183.0,16.47
+365,Central African Republic,995.01,-59.7
+366,Democratic Republic of the Congo,34.82,3.13
+367,Cote d'Ivoire,362.31,25.36
+368,Sudan,388.33,7.77
+369,Egypt,371.52,-18.58
+370,Equatorial Guinea,301.1,9.03
+371,Nigeria,819.48,-16.39
+372,Democratic Republic of the Congo,736.06,44.16
+373,Western Sahara,440.8,30.86
+374,Ghana,783.41,23.5
+375,Benin,121.87,-9.75
+376,Libya,389.55,7.79
+377,Cote d'Ivoire,237.28,-2.37
+378,Malawi,972.34,19.45
+379,South Africa,935.72,65.5
+380,South Sudan,545.16,32.71
+381,Chad,432.43,30.27
+382,Liberia,236.5,-18.92
+383,South Sudan,567.3,39.71
+384,Zambia,784.66,-54.93
+385,Benin,314.2,3.14
+386,Burundi,472.26,9.45
+387,Mali,265.44,15.93
+388,Nigeria,356.19,24.93
+389,Sudan,566.8,-45.34
+390,Senegal,101.35,1.01
+391,Swaziland,989.02,89.01
+392,Angola,691.8,-20.75
+393,Mozambique,582.09,34.93
+394,Democratic Republic of the Congo,18.24,-0.36
+395,Mauritius,442.97,44.3
+396,South Africa,563.87,56.39
+397,Egypt,382.78,34.45
+398,Lesotho,122.51,-7.35
+399,Madagascar,247.0,4.94
+400,Benin,922.7,-36.91
+401,Niger,512.06,46.09
+402,Burkina Faso,994.43,9.94
+403,South Africa,833.14,-33.33
+404,Morocco,115.9,4.64
+405,Namibia,388.75,-23.33
+406,Nigeria,608.26,-36.5
+407,Democratic Republic of the Congo,946.53,85.19
+408,Angola,51.41,0.51
+409,Malawi,490.32,-34.32
+410,South Africa,439.53,30.77
+411,Cote d'Ivoire,884.13,-70.73
+412,Ethiopia,386.49,27.05
+413,Rwanda,646.27,45.24
+414,Ethiopia,481.26,38.5
+415,Djibouti,688.39,-20.65
+416,Madagascar,677.49,33.87
+417,Morocco,65.69,4.6
+418,Namibia,400.51,-4.01
+419,Botswana,430.46,25.83
+420,Democratic Republic of the Congo,175.92,-3.52
+421,Libya,591.32,17.74
+422,Sao Tome and Principe,116.72,9.34
+423,Sao Tome and Principe,344.0,10.32
+424,Zimbabwe,976.54,58.59
+425,Congo,983.19,78.66
+426,Algeria,422.63,16.91
+427,Nigeria,922.03,27.66
+428,Democratic Republic of the Congo,697.67,-13.95
+429,Niger,471.58,-23.58
+430,Sudan,691.44,-41.49
+431,Liberia,50.48,-4.04
+432,Central African Republic,218.69,-2.19
+433,South Africa,462.64,4.63
+434,Guinea-Bissau,861.5,60.31
+435,Mauritania,347.85,-13.91
+436,Tunisia,628.53,37.71
+437,Namibia,234.66,0.0
+438,Mauritius,153.13,-10.72
+439,Mauritania,741.03,66.69
+440,Equatorial Guinea,966.99,-19.34
+441,Togo,10.76,0.54
+442,Malawi,818.95,8.19
+443,Malawi,753.87,-37.69
+444,Mali,679.85,33.99
+445,Uganda,634.2,-44.39
+446,Nigeria,56.22,1.12
+447,Guinea-Bissau,285.13,8.55
+448,Cameroon,542.43,-43.39
+449,South Africa,857.7,-42.89
+450,Malawi,511.15,51.12
+451,United Republic of Tanzania,437.73,-30.64
+452,Kenya,768.89,-23.07
+453,Mozambique,438.03,-4.38
+454,Mauritius,202.08,6.06
+455,Ghana,117.71,9.42
+456,Western Sahara,759.99,53.2
+457,Cameroon,32.15,2.57
+458,Central African Republic,384.0,11.52
+459,Nigeria,992.39,39.7
+460,Ghana,896.19,89.62
+461,Mali,211.55,14.81
+462,Cameroon,951.4,-28.54
+463,Rwanda,435.41,4.35
+464,Democratic Republic of the Congo,997.23,49.86
+465,Equatorial Guinea,383.7,23.02
+466,Eritrea,829.05,8.29
+467,Lesotho,401.94,-8.04
+468,Burundi,757.23,0.0
+469,Swaziland,322.41,29.02
+470,Djibouti,818.68,40.93
+471,Cote d'Ivoire,263.1,5.26
+472,Egypt,654.41,32.72
+473,Sierra Leone,345.05,-17.25
+474,Zimbabwe,758.17,-53.07
+475,Benin,152.03,9.12
+476,Cote d'Ivoire,701.13,63.1
+477,Libya,183.31,12.83
+478,Seychelles,94.94,-3.8
+479,Somalia,515.86,36.11
+480,Zambia,226.85,18.15
+481,Sudan,657.03,6.57
+482,Ghana,382.61,0.0
+483,Benin,506.77,-40.54
+484,Guinea,197.63,1.98
+485,Seychelles,447.46,-31.32
+486,Somalia,947.2,47.36
+487,Gabon,53.37,-4.27
+488,South Africa,981.73,39.27
+489,Western Sahara,216.43,-10.82
+490,Kenya,606.12,24.24
+491,Sao Tome and Principe,973.62,0.0
+492,Chad,895.52,17.91
+493,Mozambique,393.33,35.4
+494,Burundi,644.43,-6.44
+495,Ethiopia,751.02,-15.02
+496,South Sudan,330.27,26.42
+497,Uganda,696.6,69.66
+498,Cameroon,549.16,27.46
+499,Algeria,902.45,-9.02
+500,Democratic Republic of the Congo,895.19,-53.71
+501,Nigeria,481.11,24.06
+502,Nigeria,66.13,-0.66
+503,Botswana,197.18,-5.92
+504,Madagascar,859.08,-25.77
+505,Liberia,778.49,54.49
+506,Zimbabwe,641.5,-12.83
+507,Sierra Leone,364.23,0.0
+508,Niger,958.9,-38.36
+509,Cote d'Ivoire,294.18,-23.53
+510,Democratic Republic of the Congo,698.31,-13.97
+511,Gabon,692.57,0.0
+512,Sudan,984.51,29.54
+513,Angola,573.24,-40.13
+514,Senegal,699.02,-20.97
+515,Congo,59.11,4.73
+516,South Africa,406.44,28.45
+517,Tunisia,253.34,10.13
+518,Burkina Faso,608.71,60.87
+519,Eritrea,699.51,-7.0
+520,Togo,175.47,0.0
+521,Guinea,371.08,-3.71
+522,South Africa,695.93,20.88
+523,Nigeria,66.06,0.66
+524,Ghana,432.15,43.22
+525,United Republic of Tanzania,70.25,5.62
+526,Nigeria,646.36,-51.71
+527,Morocco,43.55,2.61
+528,Angola,421.39,-25.28
+529,Cameroon,215.26,8.61
+530,Botswana,471.08,0.0
+531,Egypt,435.44,21.77
+532,Equatorial Guinea,207.77,6.23
+533,Mali,242.66,19.41
+534,Mozambique,549.94,38.5
+535,Zimbabwe,438.85,26.33
+536,Malawi,538.35,0.0
+537,Mauritius,444.48,13.33
+538,Guinea-Bissau,119.64,10.77
+539,Sao Tome and Principe,246.07,-7.38
+540,Sierra Leone,490.82,-4.91
+541,Swaziland,276.93,13.85
+542,Democratic Republic of the Congo,801.68,72.15
+543,Burkina Faso,685.99,27.44
+544,Liberia,65.35,-1.31
+545,Seychelles,793.93,-63.51
+546,South Africa,664.97,-39.9
+547,Sudan,982.34,39.29
+548,Congo,850.34,85.03
+549,Djibouti,833.21,16.66
+550,Malawi,74.76,-5.98
+551,Gabon,46.01,4.6
+552,Ghana,992.12,19.84
+553,Nigeria,364.23,21.85
+554,Madagascar,134.01,5.36
+555,Burundi,118.96,-2.38
+556,Namibia,927.03,46.35
+557,Zambia,182.1,-1.82
+558,Central African Republic,743.9,52.07
+559,South Sudan,619.94,-49.6
+560,Tunisia,272.94,27.29
+561,Algeria,477.01,-4.77
+562,Democratic Republic of the Congo,897.4,89.74
+563,Lesotho,264.4,23.8
+564,Rwanda,543.44,32.61
+565,Eritrea,506.01,50.6
+566,Nigeria,113.28,-9.06
+567,Western Sahara,388.17,19.41
+568,Kenya,344.77,-13.79
+569,Ghana,797.0,79.7
+570,Mauritania,308.86,-15.44
+571,Libya,492.08,-29.52
+572,Democratic Republic of the Congo,98.66,2.96
+573,Ethiopia,447.81,4.48
+574,Nigeria,309.47,-9.28
+575,Senegal,153.18,13.79
+576,Benin,400.69,36.06
+577,Cote d'Ivoire,783.96,-15.68
+578,Cote d'Ivoire,961.4,-67.3
+579,Morocco,101.49,8.12
+580,Togo,366.52,36.65
+581,Benin,285.96,8.58
+582,Nigeria,357.36,-7.15
+583,Uganda,455.3,-18.21
+584,United Republic of Tanzania,661.42,6.61
+585,Guinea,784.48,-39.22
+586,Niger,815.71,-32.63
+587,South Africa,162.0,9.72
+588,Cameroon,984.72,78.78
+589,Chad,112.67,-4.51
+590,South Africa,621.79,18.65
+591,Sudan,209.66,14.68
+592,Somalia,985.13,59.11
+593,South Africa,90.93,-5.46
+594,Malawi,420.39,-25.22
+595,Tunisia,22.19,-0.67
+596,South Africa,313.1,25.05
+597,Togo,354.5,3.55
+598,Algeria,120.45,0.0
+599,Eritrea,326.44,26.12
+600,Ethiopia,151.23,-12.1
+601,Mauritania,630.95,6.31
+602,Nigeria,450.53,-36.04
+603,Libya,139.11,5.56
+604,Zimbabwe,574.87,0.0
+605,Uganda,608.24,24.33
+606,Seychelles,680.76,-34.04
+607,South Sudan,720.2,-21.61
+608,Congo,641.22,-6.41
+609,Democratic Republic of the Congo,473.92,47.39
+610,Madagascar,982.91,-9.83
+611,Mali,840.9,-58.86
+612,Liberia,685.47,-47.98
+613,Cameroon,75.02,-3.0
+614,Niger,594.23,-11.88
+615,South Africa,976.2,-29.29
+616,Ghana,450.76,-18.03
+617,Chad,157.34,-6.29
+618,Swaziland,242.06,14.52
+619,Burkina Faso,684.08,6.84
+620,Cote d'Ivoire,736.04,-51.52
+621,Cameroon,735.16,-22.05
+622,Central African Republic,595.08,5.95
+623,Mozambique,994.49,-59.67
+624,Djibouti,607.8,-6.08
+625,Mauritius,387.66,-23.26
+626,South Africa,742.01,-22.26
+627,Namibia,999.08,19.98
+628,Benin,852.18,-25.57
+629,Morocco,567.89,22.72
+630,Nigeria,270.48,2.7
+631,South Africa,827.47,8.27
+632,Egypt,87.64,6.13
+633,Somalia,680.68,-13.61
+634,Lesotho,716.33,35.82
+635,Sao Tome and Principe,888.09,-62.17
+636,Benin,21.32,0.64
+637,Gabon,677.66,-33.88
+638,Morocco,558.96,5.59
+639,Sierra Leone,810.91,-32.44
+640,Uganda,830.39,-41.52
+641,Kenya,341.84,34.18
+642,Cameroon,275.11,-11.0
+643,Democratic Republic of the Congo,322.89,6.46
+644,United Republic of Tanzania,98.4,3.94
+645,Zimbabwe,954.5,-38.18
+646,Guinea-Bissau,223.93,4.48
+647,South Africa,771.25,-15.43
+648,Gabon,594.69,41.63
+649,Namibia,850.46,-59.53
+650,Sudan,434.22,34.74
+651,Ghana,792.14,-55.45
+652,Western Sahara,440.26,13.21
+653,Mauritania,356.89,-17.84
+654,Sierra Leone,34.82,-0.7
+655,Democratic Republic of the Congo,788.56,-7.89
+656,Rwanda,744.47,7.44
+657,Botswana,800.32,-48.02
+658,Angola,39.8,-3.18
+659,Djibouti,306.88,-24.55
+660,Kenya,846.55,8.47
+661,Burundi,785.12,39.26
+662,Ghana,527.38,-26.37
+663,Guinea,314.44,28.3
+664,Guinea,949.91,-47.5
+665,Mozambique,783.49,0.0
+666,Senegal,252.82,22.75
+667,Equatorial Guinea,497.89,9.96
+668,Democratic Republic of the Congo,119.01,2.38
+669,Niger,389.73,-15.59
+670,Cote d'Ivoire,510.55,30.63
+671,Democratic Republic of the Congo,678.29,-27.13
+672,Sudan,504.53,0.0
+673,Guinea-Bissau,544.96,-16.35
+674,Zambia,820.85,57.46
+675,Egypt,892.07,-26.76
+676,Mauritius,25.6,1.79
+677,South Africa,407.34,40.73
+678,Sudan,211.45,-2.11
+679,Rwanda,362.13,3.62
+680,Nigeria,860.98,43.05
+681,Zambia,933.98,37.36
+682,Nigeria,528.27,-42.26
+683,Chad,472.81,42.55
+684,Malawi,317.87,31.79
+685,Liberia,515.28,-10.31
+686,Nigeria,2.69,-0.22
+687,Democratic Republic of the Congo,475.2,-23.76
+688,Equatorial Guinea,649.16,32.46
+689,Cote d'Ivoire,54.12,4.33
+690,Angola,9.16,-0.09
+691,Cameroon,586.1,23.44
+692,Nigeria,717.28,43.04
+693,South Africa,953.06,76.24
+694,Lesotho,704.69,70.47
+695,South Africa,808.04,-48.48
+696,Burundi,861.38,8.61
+697,Central African Republic,168.78,-10.13
+698,Sao Tome and Principe,898.29,53.9
+699,Democratic Republic of the Congo,91.24,-7.3
+700,Ghana,220.89,0.0
+701,Morocco,150.54,-12.04
+702,Congo,146.09,11.69
+703,Mali,77.85,-6.23
+704,South Africa,263.38,-7.9
+705,Tunisia,511.56,-15.35
+706,Sierra Leone,400.86,-4.01
+707,Burkina Faso,977.29,-58.64
+708,Madagascar,946.35,85.17
+709,Seychelles,52.28,3.14
+710,Swaziland,401.44,-24.09
+711,Western Sahara,74.45,-5.96
+712,Cameroon,840.76,-8.41
+713,Togo,875.44,-43.77
+714,Benin,501.03,20.04
+715,Cote d'Ivoire,743.91,74.39
+716,Kenya,759.18,-15.18
+717,Togo,660.33,-19.81
+718,Benin,518.9,36.32
+719,Ethiopia,624.27,49.94
+720,Nigeria,83.74,1.67
+721,South Sudan,142.9,2.86
+722,Ghana,251.91,20.15
+723,United Republic of Tanzania,846.06,59.22
+724,Botswana,93.74,1.87
+725,Western Sahara,759.65,15.19
+726,Eritrea,126.3,2.53
+727,Libya,434.16,17.37
+728,Namibia,88.06,7.93
+729,Malawi,891.98,44.6
+730,South Africa,521.94,-41.76
+731,Sao Tome and Principe,982.56,-68.78
+732,Democratic Republic of the Congo,158.64,15.86
+733,South Africa,317.4,6.35
+734,Nigeria,51.79,0.52
+735,Seychelles,439.66,-21.98
+736,Angola,693.91,34.7
+737,Lesotho,53.57,-4.29
+738,Djibouti,952.85,-28.59
+739,Sudan,822.41,-32.9
+740,Zimbabwe,225.21,-6.76
+741,Eritrea,199.16,3.98
+742,Somalia,118.6,-3.56
+743,South Africa,503.52,-20.14
+744,Benin,853.01,34.12
+745,Cameroon,977.32,58.64
+746,Nigeria,724.95,0.0
+747,Senegal,109.84,2.2
+748,Algeria,206.71,8.27
+749,Libya,807.85,32.31
+750,Malawi,670.13,46.91
+751,Senegal,893.17,53.59
+752,Madagascar,192.61,19.26
+753,South Sudan,945.8,-18.92
+754,Malawi,130.69,7.84
+755,Niger,346.72,-17.34
+756,Egypt,485.04,-38.8
+757,Sudan,493.02,-19.72
+758,Burundi,865.69,51.94
+759,Zambia,12.31,-0.37
+760,Cote d'Ivoire,896.76,8.97
+761,Mali,572.27,-11.45
+762,Mauritania,784.94,78.49
+763,Guinea-Bissau,547.68,-38.34
+764,Democratic Republic of the Congo,430.15,-30.11
+765,Cote d'Ivoire,749.12,-7.49
+766,Swaziland,787.3,15.75
+767,Ethiopia,743.67,29.75
+768,Equatorial Guinea,800.51,32.02
+769,Mauritius,15.99,-0.8
+770,Benin,517.7,0.0
+771,Botswana,137.27,-2.75
+772,Mozambique,937.98,0.0
+773,Nigeria,38.3,1.15
+774,Uganda,6.87,0.14
+775,Gabon,771.44,77.14
+776,Somalia,443.2,22.16
+777,Central African Republic,461.66,41.55
+778,Chad,163.34,-11.43
+779,Ghana,535.35,-26.77
+780,Algeria,377.49,26.42
+781,Nigeria,423.18,-29.62
+782,Tunisia,728.79,72.88
+783,Sudan,277.22,5.54
+784,Guinea,350.47,28.04
+785,United Republic of Tanzania,505.64,-20.23
+786,Rwanda,472.24,-37.78
+787,Malawi,692.45,6.92
+788,Nigeria,550.57,5.51
+789,Liberia,306.96,9.21
+790,Burkina Faso,5.47,0.55
+791,Congo,498.92,-4.99
+792,Ghana,527.43,0.0
+793,Malawi,162.93,-11.41
+794,Benin,186.23,14.9
+795,Nigeria,279.55,22.36
+796,Sao Tome and Principe,810.6,40.53
+797,Angola,460.06,41.41
+798,Madagascar,335.21,-10.06
+799,Ghana,123.38,-6.17
+800,Guinea-Bissau,153.68,12.29
+801,Rwanda,3.1,0.09
+802,Zimbabwe,449.7,0.0
+803,Benin,389.61,15.58
+804,Democratic Republic of the Congo,945.06,47.25
+805,Mali,733.89,29.36
+806,Swaziland,846.41,59.25
+807,Gabon,209.14,-8.37
+808,Namibia,174.17,3.48
+809,Cote d'Ivoire,212.73,14.89
+810,Botswana,544.5,-27.23
+811,Cameroon,708.83,49.62
+812,Democratic Republic of the Congo,785.97,-47.16
+813,Lesotho,268.61,0.0
+814,Malawi,292.46,14.62
+815,Morocco,898.19,-44.91
+816,Mozambique,932.67,18.65
+817,South Africa,504.61,10.09
+818,Chad,456.72,18.27
+819,South Africa,796.69,-47.8
+820,Togo,992.23,-19.84
+821,Somalia,307.81,-6.16
+822,Ethiopia,335.74,16.79
+823,Seychelles,460.12,-13.8
+824,Algeria,450.44,13.51
+825,Burundi,326.34,32.63
+826,Central African Republic,633.31,38.0
+827,Guinea,547.17,16.42
+828,Mauritius,151.12,4.53
+829,Cote d'Ivoire,919.79,91.98
+830,Senegal,300.64,6.01
+831,Sudan,456.37,4.56
+832,Nigeria,686.8,-13.74
+833,Nigeria,631.9,-18.96
+834,Egypt,303.03,-18.18
+835,Equatorial Guinea,398.39,-11.95
+836,Burkina Faso,231.38,-16.2
+837,South Africa,23.96,0.96
+838,South Sudan,64.97,1.95
+839,Uganda,720.73,43.24
+840,Niger,916.61,9.17
+841,Sierra Leone,117.12,-1.17
+842,South Africa,446.8,13.4
+843,Western Sahara,91.21,-1.82
+844,Zambia,28.24,-0.85
+845,Djibouti,584.79,35.09
+846,Sudan,928.39,-46.42
+847,Liberia,947.97,0.0
+848,Nigeria,808.77,-48.53
+849,Libya,112.07,3.36
+850,Democratic Republic of the Congo,30.17,-1.51
+851,Eritrea,845.23,-50.71
+852,Cameroon,576.83,-17.3
+853,Congo,174.91,-7.0
+854,Kenya,78.44,-3.92
+855,Mauritania,949.73,37.99
+856,Tunisia,185.9,14.87
+857,United Republic of Tanzania,562.51,-33.75
+858,Somalia,858.02,77.22
+859,Nigeria,614.99,12.3
+860,Zimbabwe,401.79,0.0
+861,Niger,796.88,-15.94
+862,Nigeria,73.57,6.62
+863,Mali,93.81,-2.81
+864,Central African Republic,341.86,13.67
+865,Kenya,836.0,16.72
+866,Malawi,954.46,-19.09
+867,Djibouti,740.24,0.0
+868,South Sudan,374.57,22.47
+869,Equatorial Guinea,293.14,29.31
+870,Cameroon,293.91,-5.88
+871,Nigeria,91.77,4.59
+872,Uganda,163.23,16.32
+873,Botswana,117.65,3.53
+874,Burkina Faso,941.9,-47.1
+875,South Africa,475.9,23.8
+876,Democratic Republic of the Congo,72.89,6.56
+877,Sudan,413.83,-33.11
+878,Mauritius,859.44,68.76
+879,Sao Tome and Principe,330.17,-23.11
+880,Sierra Leone,400.61,-20.03
+881,Senegal,134.83,6.74
+882,Swaziland,322.28,-9.67
+883,Lesotho,318.66,25.49
+884,Madagascar,309.23,30.92
+885,Cote d'Ivoire,385.31,3.85
+886,Zambia,748.72,7.49
+887,Ghana,400.33,28.02
+888,Ethiopia,302.99,9.09
+889,Liberia,242.5,24.25
+890,Mozambique,806.47,80.65
+891,South Africa,55.47,3.33
+892,Guinea-Bissau,623.03,-6.23
+893,Cameroon,400.94,20.05
+894,Congo,340.78,-13.63
+895,Cote d'Ivoire,86.84,-5.21
+896,Nigeria,784.31,54.9
+897,South Africa,193.96,-7.76
+898,Seychelles,133.74,12.04
+899,United Republic of Tanzania,471.51,37.72
+900,Burundi,553.66,-16.61
+901,Sierra Leone,465.79,4.66
+902,Cameroon,764.03,7.64
+903,Lesotho,930.77,46.54
+904,Libya,171.11,6.84
+905,Niger,945.62,0.0
+906,Equatorial Guinea,481.01,-9.62
+907,Togo,128.8,2.58
+908,Democratic Republic of the Congo,964.65,-67.53
+909,Guinea,416.71,-12.5
+910,South Africa,396.32,-11.89
+911,Benin,583.79,11.68
+912,Ghana,817.72,8.18
+913,Mauritania,650.78,65.08
+914,Algeria,876.49,-26.29
+915,Togo,440.08,-17.6
+916,Egypt,399.7,23.98
+917,Malawi,316.12,-6.32
+918,Western Sahara,158.62,7.93
+919,Democratic Republic of the Congo,42.9,3.0
+920,Guinea,404.93,-12.15
+921,Sao Tome and Principe,681.82,27.27
+922,Egypt,110.53,-6.63
+923,Namibia,978.37,39.13
+924,South Africa,243.11,0.0
+925,Sudan,816.28,40.81
+926,Nigeria,872.24,0.0
+927,Eritrea,891.31,26.74
+928,Morocco,219.21,-17.54
+929,Tunisia,195.28,3.91
+930,Tunisia,808.1,-16.16
+931,Kenya,613.64,-30.68
+932,Zimbabwe,179.71,8.99
+933,Chad,400.93,36.08
+934,Mauritania,783.76,54.86
+935,Swaziland,196.19,-15.7
+936,Rwanda,586.73,41.07
+937,Benin,934.94,-74.8
+938,Democratic Republic of the Congo,973.37,9.73
+939,Burundi,491.07,-4.91
+940,Gabon,963.17,-77.05
+941,Morocco,135.96,2.72
+942,Angola,398.18,-19.91
+943,Democratic Republic of the Congo,305.95,12.24
+944,Benin,913.53,-18.27
+945,Guinea-Bissau,53.89,4.31
+946,Gabon,299.72,-23.98
+947,Somalia,262.21,26.22
+948,Ghana,614.39,12.29
+949,Djibouti,38.26,-0.77
+950,Madagascar,600.21,-6.0
+951,Benin,199.99,-2.0
+952,Cote d'Ivoire,773.74,-38.69
+953,Algeria,245.2,-4.9
+954,Democratic Republic of the Congo,787.35,0.0
+955,Nigeria,171.36,0.0
+956,South Africa,826.64,82.66
+957,Ghana,188.56,3.77
+958,Mauritius,361.28,3.61
+959,South Sudan,760.52,-38.03
+960,Sudan,201.34,2.01
+961,Cote d'Ivoire,277.27,24.95
+962,Cameroon,759.59,68.36
+963,Botswana,731.77,-58.54
+964,Western Sahara,561.07,28.05
+965,Zambia,55.79,-2.23
+966,Cote d'Ivoire,678.51,-27.14
+967,Equatorial Guinea,289.07,-20.23
+968,Botswana,423.13,33.85
+969,Rwanda,895.24,-71.62
+970,Uganda,918.7,9.19
+971,Sudan,568.71,28.44
+972,Liberia,239.28,-4.79
+973,Niger,812.17,-64.97
+974,Nigeria,583.45,23.34
+975,Benin,457.95,-36.64
+976,Congo,987.23,-9.87
+977,Lesotho,526.93,-26.35
+978,Central African Republic,386.36,-30.91
+979,Mozambique,562.83,5.63
+980,Malawi,524.58,10.49
+981,Nigeria,634.54,25.38
+982,Eritrea,856.67,-59.97
+983,Mauritania,871.54,-17.43
+984,South Africa,892.7,17.85
+985,Nigeria,992.34,29.77
+986,United Republic of Tanzania,202.36,-6.07
+987,Burkina Faso,524.68,-26.23
+988,Ethiopia,872.97,0.0
+989,Namibia,547.71,-38.34
+990,South Africa,710.53,-14.21
+991,Cote d'Ivoire,950.34,57.02
+992,Mali,21.08,-1.26
+993,Angola,366.34,0.0
+994,Democratic Republic of the Congo,164.79,0.0
+995,Malawi,459.39,18.38
+996,Senegal,332.63,13.31
+997,Rwanda,428.17,17.13
+998,Chad,0.89,0.03
+999,Libya,344.48,10.33
+1000,Western Sahara,309.78,9.29
+1001,Democratic Republic of the Congo,877.54,78.98
+1002,Ghana,729.41,43.76
+1003,Senegal,139.1,9.74
+1004,Burkina Faso,117.52,8.23
+1005,South Africa,139.31,13.93
+1006,Cameroon,537.87,26.89
+1007,Nigeria,137.79,12.4
+1008,Seychelles,334.36,33.44
+1009,Sudan,626.58,12.53
+1010,Chad,44.5,3.12
+1011,Mali,598.55,5.99
+1012,Gabon,157.86,-7.89
+1013,Guinea,255.31,-12.77
+1014,Mauritius,148.56,10.4
+1015,Sierra Leone,427.16,0.0
+1016,Nigeria,705.15,49.36
+1017,Burundi,181.34,-12.69
+1018,Zambia,791.05,-47.46
+1019,Algeria,651.66,-32.58
+1020,Somalia,116.04,11.6
+1021,South Africa,993.94,-49.7
+1022,Togo,346.36,-24.25
+1023,Eritrea,310.64,3.11
+1024,Mozambique,159.81,-11.19
+1025,Central African Republic,687.01,-13.74
+1026,Swaziland,801.25,-40.06
+1027,Tunisia,665.22,33.26
+1028,Sao Tome and Principe,120.74,3.62
+1029,South Sudan,579.24,40.55
+1030,South Africa,421.23,4.21
+1031,Nigeria,119.23,-8.35
+1032,Egypt,506.78,-10.14
+1033,Malawi,695.82,62.62
+1034,Libya,106.59,-6.4
+1035,Angola,878.19,61.47
+1036,Ethiopia,649.92,-6.5
+1037,Seychelles,20.98,0.21
+1038,South Africa,850.02,-51.0
+1039,Djibouti,338.99,-6.78
+1040,Benin,830.33,-8.3
+1041,Cameroon,403.75,-12.11
+1042,Sudan,679.3,47.55
+1043,Uganda,680.17,68.02
+1044,Morocco,184.49,-7.38
+1045,Democratic Republic of the Congo,481.62,14.45
+1046,Namibia,951.26,95.13
+1047,Congo,535.14,-26.76
+1048,Guinea-Bissau,428.02,38.52
+1049,Madagascar,32.73,-0.65
+1050,Ghana,432.32,17.29
+1051,Zimbabwe,394.28,-23.66
+1052,Malawi,333.07,-16.65
+1053,Liberia,133.26,-8.0
+1054,Kenya,737.57,36.88
+1055,United Republic of Tanzania,859.82,-60.19
